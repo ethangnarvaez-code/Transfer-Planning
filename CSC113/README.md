@@ -1,1 +1,1 @@
-folder for organizing CTI110 documents
+folder for organizing CSC113 documents
